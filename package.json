@@ -1,0 +1,19 @@
+{
+  "name": "school-website",
+  "version": "1.0.0",
+  "description": "my school website",
+  "main": "hosting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OdiumDolt/School-Website.git#main"
+  },
+  "author": "Rohn Heppner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OdiumDolt/School-Website/issues"
+  },
+  "homepage": "https://github.com/OdiumDolt/School-Website/tree/main#readme"
+}
