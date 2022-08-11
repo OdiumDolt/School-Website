@@ -1,0 +1,10 @@
+    My discord bot. How I love my discord bot. However I should have never needed to make it. Let me explain.
+
+    Me and my friends love to play games together. At least every other day, were online togther playing games. And all of us are listening to music while we play games. However, were all listening to our own music, which is lame. Theres got to be a way for use to listen to the same music, at the same time, while we play games together, right?
+
+    Well there was. There used to exist a discord bot named Rhythm. Rhythm was super sick. you would type the command !p followed buy the name of a song, or with a youtube url, and it would play the song in the voice call you were in! It worked perfectly. However, so many people started to use it, that the Rhythm team had to charge people for their service. This lead Google to send a cease and desist to Rhythm.
+    What are we to do? Well, at the time, I was learning python. It was the first language I learned, and had become reasonably competent in it. I decided now was the time to realese my first ever piece of software that not just I would use. But something all my friends could use too. So I got to work. I found <a class="here-text" href="https://discordpy.readthedocs.io/en/stable/">discord.py</a>, A python library that allowed me to connect to discords bot application platform with python
+
+    I used ffmpeg, and youtube-dl to get songs from youtube, and stream them through the bot, which I called acapella. Today, the bot is still only for me and my friends, however, I am currently working on a V2 of the bot, with more features, and multi server support.
+
+    In this project, I learned about python objects, discords API, and how to host a app on <a class="here-text" href="https://www.heroku.com/">heroku</a>. You can find the github project <a class="here-text" href="https://github.com/OdiumDolt/acapella0.2">here</a>.
